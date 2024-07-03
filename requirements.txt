@@ -1,0 +1,6 @@
+Flask==3.0.3
+gradio==4.37.1
+openai-whisper
+setuptools-rust
+#whisper @ https://github.com/openai/whisper.git
+numpy==2.0.0
